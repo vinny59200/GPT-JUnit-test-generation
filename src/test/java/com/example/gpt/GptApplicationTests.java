@@ -10,4 +10,10 @@ class GptApplicationTests {
 	void contextLoads() {
 	}
 
+	@Test
+	void name() {
+		for ( int i = 0; i < 2; i++ ) {
+			
+		}
+	}
 }
